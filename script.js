@@ -48,9 +48,8 @@
           imagen = "https://via.placeholder.com/300x200/ffcccc?text=Signo+no+válido";
       }
 
-      resultado.innerHTML = `
+      resultado.innerHTML = 
         <h2>${mensaje}</h2>
         <img src="${imagen}" alt="Predicción de la pitonisa">
-      `;
     }
   </script>
