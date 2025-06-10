@@ -26,11 +26,11 @@ body {
     border-radius: 5px;
   }
 
-  .resultado {
+  .result {
     margin-top: 30px;
   }
 
-  .resultado img {
+  .result img {
     max-width: 300px;
     margin-top: 15px;
     border-radius: 10px;
